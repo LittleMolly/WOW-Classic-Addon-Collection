@@ -62,8 +62,6 @@ function xpSpeedToTentCount(xpSpeed)
 	elseif (xpSpeed < 15) then
 		return "2 tents"
 	elseif (xpSpeed < 21) then
-		return "3 tents"
-	else 
 		return "many tents"
 	end
 end
@@ -89,4 +87,5 @@ MainMenuExpBar:SetScript("OnLeave", function()
 	GameTooltip:Hide()
 	tooltip = nil
 end)
+
 
