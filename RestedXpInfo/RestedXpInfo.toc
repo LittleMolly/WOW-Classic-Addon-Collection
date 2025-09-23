@@ -1,7 +1,6 @@
-## Interface: 11200
+## Interface: 11302
 ## Title: RestedXpInfo
-## Notes: Enhance rested xp tooltip with some useful information
 ## Author: LittleMolly
 ## Version: 0.1
 
-restedxp_1_12.lua
+restedxp.lua
