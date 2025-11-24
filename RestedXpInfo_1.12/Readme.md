@@ -8,3 +8,7 @@ Small and simple addon to show a tooltip on the XP bar with the current percenta
 
 ## Dependencies
 - none
+
+## Hint
+- The %XP/min rate is not entirely stable. This seems to be caused by slightly undsteady server ticks or rested XP gains not being very consistent per tick. Don't let it confuse you.
+
